@@ -15,7 +15,7 @@ def fizzbuzz(number)
     
   else 
     
-    return ""
+    return "Neither"
     
   
 end
