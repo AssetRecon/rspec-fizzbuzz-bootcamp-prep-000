@@ -2,7 +2,8 @@ def fizzbuzz(number)
   
   if number % 3 == 0
     
-    "Fizz"
+    return "Fizz"
+    
   end
   
   if number % 5 == 0 
