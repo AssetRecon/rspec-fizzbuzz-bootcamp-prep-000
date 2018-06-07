@@ -8,7 +8,7 @@ def fizzbuzz(number)
   
   if number % 5 == 0 
     
-    print "Buzz"
+   return print "Buzz"
     
   end
     
