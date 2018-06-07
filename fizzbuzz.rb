@@ -13,10 +13,6 @@ def fizzbuzz(number)
     
    return "Buzz"
     
-  else
-    
-    return "Neither"
-    
   end
     
   
