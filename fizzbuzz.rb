@@ -4,16 +4,18 @@ def fizzbuzz(number)
     
     return "FizzBizz"
   
-  elseif number % 3 == 0
+  elsif number % 3 == 0
     
     return "Fizz"
     
   
-  if number % 5 == 0 
+  elsif number % 5 == 0 
     
    return "Buzz"
     
-  end
+  else 
+    
+    return ""
     
   
 end
